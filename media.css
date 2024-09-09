@@ -1,0 +1,152 @@
+@media (max-width: 827px) {
+  .none-box {
+    width: 30%;
+  }
+}
+@media (max-width: 812px) {
+  .block {
+    flex-direction: column;
+    align-items: center;
+  }
+  .none-box h1 {
+    line-height: 19px;
+    font-size: 14px;
+  }
+  .section-text h1 {
+    font-size: 38px;
+    line-height: 50px;
+  }
+  .section-text p {
+    width: 328px;
+    font-weight: 400;
+    padding-block: 10px;
+  }
+  .section-text h1 {
+    width: 389px;
+  }
+  .section-text button {
+    width: 140px;
+    height: 37px;
+    font-size: 14px;
+  }
+  @media (max-width: 812px) {
+    .none-box h1 {
+      height: 20px;
+    }
+    .none-box {
+      width: 46%;
+      height: 178px;
+    }
+  }
+  .vok {
+    display: none;
+  }
+  .vod {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  @media (max-width: 727px) {
+    .none-n {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding-bottom: 20px;
+      font-size: 18px;
+    }
+  }
+  .box2 {
+    display: none;
+  }
+  .box3 {
+    display: none;
+  }
+  .section {
+    display: flex;
+    flex-direction: column;
+  }
+  .box {
+    padding-block: 30px;
+    border-bottom: 1px solid #e0e0e0;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    /* margin: 20px; */
+    gap: 30px;
+  }
+  .section-text h1 {
+    text-align: center;
+    display: flex;
+  }
+  .section-text p {
+    text-align: center;
+    display: flex;
+  }
+  .section-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .none-box h1 {
+    font-weight: 700;
+    font-size: 22px;
+  }
+  .none-box p {
+    /* width: 368px; */
+    line-height: 138%;
+    font-weight: 400;
+    font-size: 16px;
+  }
+  .woter {
+    display: flex;
+    padding-block: 5px;
+  }
+  .none-box h1 {
+    height: 24%;
+  }
+  .none-n {
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .section-text h1 {
+    height: 142px;
+    width: 334px;
+  }
+  .section-text p {
+    text-align: center;
+    display: flex;
+    width: 293px;
+  }
+  .section-text button {
+    width: 200px;
+    height: 47px;
+    font-size: 14px;
+    margin-block: 20px;
+  }
+  .none-box {
+    width: 100%;
+    height: 178px;
+  }
+  .woter {
+    display: flex;
+    padding-block: 10px;
+  }
+  #none {
+    background: #edf7fa;
+    padding-block: 20px;
+  }
+  .none-box h1 {
+    line-height: 25px;
+    height: 24%;
+  }
+  .burger-menu {
+    display: flex;
+    font-size: 40px;
+  }
+  .header-text {
+    display: none;
+  }
+}
